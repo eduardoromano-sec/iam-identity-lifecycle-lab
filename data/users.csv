@@ -1,0 +1,13 @@
+employee_id,first_name,last_name,email,department,job_title,manager,status
+NT001,Emma,Johnson,emma.johnson@novatech.example,Engineering,Engineering Manager,,Active
+NT002,Liam,Smith,liam.smith@novatech.example,Engineering,Software Engineer,NT001,Active
+NT003,Olivia,Brown,olivia.brown@novatech.example,Finance,Finance Manager,,Active
+NT004,Noah,Davis,noah.davis@novatech.example,Finance,Financial Analyst,NT003,Active
+NT005,Ava,Wilson,ava.wilson@novatech.example,Human Resources,HR Manager,,Active
+NT006,Ethan,Moore,ethan.moore@novatech.example,Human Resources,HR Analyst,NT005,Active
+NT007,Sophia,Taylor,sophia.taylor@novatech.example,IT,IT Administrator,,Active
+NT008,Lucas,Anderson,lucas.anderson@novatech.example,IT,IT Support Analyst,NT007,Active
+NT009,Mia,Thomas,mia.thomas@novatech.example,Security,Security Manager,,Active
+NT010,Mason,Jackson,mason.jackson@novatech.example,Security,Security Analyst,NT009,Active
+NT011,Isabella,White,isabella.white@novatech.example,Sales,Sales Manager,,Active
+NT012,James,Harris,james.harris@novatech.example,Sales,Account Executive,NT011,Active
