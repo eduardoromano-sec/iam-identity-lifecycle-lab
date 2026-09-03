@@ -1,0 +1,13 @@
+role_id,role_name,department,description
+ROLE001,Engineering Manager,Engineering,Management role for the Engineering department
+ROLE002,Software Engineer,Engineering,Standard engineering role
+ROLE003,Finance Manager,Finance,Management role for the Finance department
+ROLE004,Financial Analyst,Finance,Standard finance role
+ROLE005,HR Manager,Human Resources,Management role for Human Resources
+ROLE006,HR Analyst,Human Resources,Standard Human Resources role
+ROLE007,IT Administrator,IT,Privileged IT administration role
+ROLE008,IT Support Analyst,IT,Standard IT support role
+ROLE009,Security Manager,Security,Management role for the Security department
+ROLE010,Security Analyst,Security,Standard security operations role
+ROLE011,Sales Manager,Sales,Management role for the Sales department
+ROLE012,Account Executive,Sales,Standard sales role
