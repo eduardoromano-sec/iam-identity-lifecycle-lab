@@ -1,0 +1,13 @@
+role,google_workspace,slack,jira,github,aws,hr_system,finance_system
+Software Engineer,Standard User,Standard User,Standard User,Developer,Developer,None,None
+Engineering Manager,Standard User,Standard User,Manager,Maintainer,Developer,None,None
+Financial Analyst,Standard User,Standard User,Standard User,None,None,Payroll Read,Finance User
+Finance Manager,Standard User,Standard User,Standard User,None,None,Payroll Read,Finance Manager
+HR Analyst,Standard User,Standard User,Standard User,None,None,HR Analyst,None
+HR Manager,Standard User,Standard User,Standard User,None,None,HR Manager,None
+IT Support Analyst,Standard User,Standard User,IT Support,None,None,None,None
+IT Administrator,Admin,Standard User,IT Admin,None,None,None,None
+Security Analyst,Standard User,Standard User,Standard User,Security Read,Security Audit,None,None
+Security Manager,Standard User,Standard User,Standard User,Security Read,Security Audit,None,None
+Account Executive,Standard User,Standard User,Standard User,None,None,None,None
+Sales Manager,Standard User,Standard User,Manager,None,None,None,None
