@@ -18,6 +18,8 @@ This includes:
 
 Access to sensitive or privileged resources may require additional approval and security controls based on the level of risk involved.
 
+
+
 ## Access Principles
 
 All access requests must follow the principles below:
@@ -43,3 +45,69 @@ Requests involving licensed or limited resources may also require validation of 
 ### 5. Auditability and Traceability
 
 Access requests, approvals, modifications, provisioning, extensions, and revocations must be documented to maintain an appropriate audit trail.
+
+
+
+## Access Request and Approval Process
+
+Access requests must be evaluated according to the level of risk associated with the requested resource and permission.
+
+### Standard Access
+
+Requests for standard access that are consistent with the user's role must include:
+
+- A documented business justification
+- Approval from the appropriate manager and/or resource owner
+- The requested access level
+- The expected duration when the access is temporary
+
+### Privileged Access
+
+Requests for privileged or administrative access require additional validation.
+
+The requested privilege must be evaluated to determine whether a lower level of access can satisfy the business requirement.
+
+Privileged access may require:
+
+- Approval from the appropriate Application or Resource Owner
+- Additional Security approval based on risk
+- A defined access duration
+- Multi-Factor Authentication (MFA)
+- Logging and monitoring of administrative activities
+- Use of a separate privileged identity when appropriate
+
+Temporary privileged access should expire when the approved period ends and require renewed approval for extension.
+
+### Third-Party Access
+
+Access requested for contractors or other third parties requires additional validation due to the increased risk associated with external identities.
+
+Before access is granted, the following must be validated:
+
+- A valid business justification
+- An active contractual or business relationship
+- An identified internal sponsor
+- Approval from the appropriate Application or Resource Owner
+- Applicable security, confidentiality, and privacy requirements
+- The minimum required access level
+- A defined expiration date
+- Device or access environment requirements when applicable
+
+Access to sensitive systems may be restricted to approved corporate devices, managed devices, or controlled environments such as a Virtual Desktop Infrastructure (VDI).
+
+Third-party access must follow the principle of least privilege and must not extend beyond the period required for the approved business activity.
+
+### Audit Trail
+
+All access requests must maintain sufficient records to identify:
+
+- The requester
+- The user receiving access
+- The requested resource and permission level
+- Business justification
+- Required approver(s)
+- Approval decisions
+- Provisioning date
+- Expiration date, when applicable
+- Extensions or modifications
+- Revocation date
