@@ -1,13 +1,14 @@
-employee_id,first_name,last_name,email,department,job_title,manager,status
-NT001,Emma,Johnson,emma.johnson@novatech.example,Engineering,Engineering Manager,,Active
-NT002,Liam,Smith,liam.smith@novatech.example,Engineering,Software Engineer,NT001,Active
-NT003,Olivia,Brown,olivia.brown@novatech.example,Finance,Finance Manager,,Active
-NT004,Noah,Davis,noah.davis@novatech.example,Finance,Financial Analyst,NT003,Active
-NT005,Ava,Wilson,ava.wilson@novatech.example,Human Resources,HR Manager,,Active
-NT006,Ethan,Moore,ethan.moore@novatech.example,Human Resources,HR Analyst,NT005,Active
-NT007,Sophia,Taylor,sophia.taylor@novatech.example,IT,IT Administrator,,Active
-NT008,Lucas,Anderson,lucas.anderson@novatech.example,IT,IT Support Analyst,NT007,Active
-NT009,Mia,Thomas,mia.thomas@novatech.example,Security,Security Manager,,Active
-NT010,Mason,Jackson,mason.jackson@novatech.example,Security,Security Analyst,NT009,Active
-NT011,Isabella,White,isabella.white@novatech.example,Sales,Sales Manager,,Active
-NT012,James,Harris,james.harris@novatech.example,Sales,Account Executive,NT011,Active
+employee_id,first_name,last_name,email,department,job_title,manager,employment_type,start_date,status
+NT001,Emma,Johnson,emma.johnson@novatech.example,Engineering,Engineering Manager,,Employee,2026-01-12,Active
+NT002,Liam,Smith,liam.smith@novatech.example,Engineering,Software Engineer,NT001,Employee,2026-02-02,Active
+NT003,Olivia,Brown,olivia.brown@novatech.example,Finance,Finance Manager,,Employee,2026-01-12,Active
+NT004,Noah,Davis,noah.davis@novatech.example,Finance,Financial Analyst,NT003,Employee,2026-03-09,Active
+NT005,Ava,Wilson,ava.wilson@novatech.example,Human Resources,HR Manager,,Employee,2026-01-12,Active
+NT006,Ethan,Moore,ethan.moore@novatech.example,Human Resources,HR Analyst,NT005,Employee,2026-04-06,Active
+NT007,Sophia,Taylor,sophia.taylor@novatech.example,IT,IT Administrator,,Employee,2026-01-12,Active
+NT008,Lucas,Anderson,lucas.anderson@novatech.example,IT,IT Support Analyst,NT007,Employee,2026-02-16,Active
+NT009,Mia,Thomas,mia.thomas@novatech.example,Security,Security Manager,,Employee,2026-01-12,Active
+NT010,Mason,Jackson,mason.jackson@novatech.example,Security,Security Analyst,NT009,Employee,2026-05-04,Active
+NT011,Isabella,White,isabella.white@novatech.example,Sales,Sales Manager,,Employee,2026-01-12,Active
+NT012,James,Harris,james.harris@novatech.example,Sales,Account Executive,NT011,Employee,2026-06-01,Active
+NT013,Charlotte,Miller,charlotte.miller@novatech.example,Security,Security Analyst,NT009,Employee,2026-09-14,Active
